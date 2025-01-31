@@ -1,0 +1,28 @@
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\bin\Debug\net8.0\StudentPortal.Data.deps.json
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\bin\Debug\net8.0\StudentPortal.Data.runtimeconfig.json
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\bin\Debug\net8.0\StudentPortal.Data.dll
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\bin\Debug\net8.0\StudentPortal.Data.pdb
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.csproj.AssemblyReference.cache
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.AssemblyInfoInputs.cache
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.AssemblyInfo.cs
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.csproj.CoreCompileInputs.cache
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.dll
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\refint\StudentPortal.Data.dll
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.pdb
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.genruntimeconfig.cache
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\ref\StudentPortal.Data.dll
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\bin\Debug\net8.0\StudentPortal.Data.deps.json
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\bin\Debug\net8.0\StudentPortal.Data.runtimeconfig.json
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\bin\Debug\net8.0\StudentPortal.Data.dll
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\bin\Debug\net8.0\StudentPortal.Data.pdb
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.csproj.AssemblyReference.cache
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.AssemblyInfoInputs.cache
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.AssemblyInfo.cs
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.csproj.CoreCompileInputs.cache
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.dll
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\refint\StudentPortal.Data.dll
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.pdb
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\StudentPortal.Data.genruntimeconfig.cache
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Data\obj\Debug\net8.0\ref\StudentPortal.Data.dll

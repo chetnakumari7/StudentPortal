@@ -1,0 +1,20 @@
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.csproj.AssemblyReference.cache
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.AssemblyInfoInputs.cache
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.AssemblyInfo.cs
+D:\TrainingProject\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.csproj.CoreCompileInputs.cache
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\bin\Debug\net8.0\StudentPortal.Services.deps.json
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\bin\Debug\net8.0\StudentPortal.Services.dll
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\bin\Debug\net8.0\StudentPortal.Services.pdb
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\bin\Debug\net8.0\StudentPortal.Data.dll
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\bin\Debug\net8.0\StudentPortal.Data.pdb
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.csproj.AssemblyReference.cache
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.AssemblyInfoInputs.cache
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.AssemblyInfo.cs
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.csproj.CoreCompileInputs.cache
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentP.1569A067.Up2Date
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.dll
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\refint\StudentPortal.Services.dll
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\StudentPortal.Services.pdb
+D:\TrainingProject - Copy\StudentPortal\StudentPortal.Web\StudentPortal.Services\obj\Debug\net8.0\ref\StudentPortal.Services.dll
